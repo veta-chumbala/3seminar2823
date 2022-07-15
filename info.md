@@ -2,5 +2,5 @@
 
 git clone url
 
-git push
+Здесь провоцируем конфликт
 
